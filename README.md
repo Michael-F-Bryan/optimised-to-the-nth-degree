@@ -29,5 +29,5 @@ do their best to avoid them, and welcome help in analysing and fixing them.
 
 [API Docs]: https://michael-f-bryan.github.io/{{project-name}}
 [crev]: https://github.com/crev-dev/cargo-crev
-[article]: http://adventures.michaelfbryan.com/�🔥
+[article]: http://adventures.michaelfbryan.com/💩🔥🦀
 [thread]: https://users.rust-lang.org/t/why-is-this-rust-code-slower-than-c/49564
